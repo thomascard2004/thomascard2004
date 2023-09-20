@@ -7,7 +7,7 @@ Sou estudante de Engenharia de Computação e Informação na UFRJ.
 ![python icon](https://github.com/thomascard2004/thomascard2004/assets/112047248/3aae9aca-cdcf-4639-95e3-f5c67614200b)
 
 
-<img src="https://github.com/thomascard2004/thomascard2004/assets/112047248/3aae9aca-cdcf-4639-95e3-f5c67614200b" width="10px">
+<img src="https://github.com/thomascard2004/thomascard2004/assets/112047248/3aae9aca-cdcf-4639-95e3-f5c67614200b" width="100px">
 
 
   
