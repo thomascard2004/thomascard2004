@@ -26,6 +26,8 @@ Entre em contato comigo através do me email:
 <img src="https://github.com/thomascard2004/thomascard2004/assets/112047248/913fb840-1356-4abc-9ef0-c894963fe38f" width="50px">
 <img src="https://github.com/thomascard2004/thomascard2004/assets/112047248/775e00db-b8f2-47b3-9ff1-656bffd577e6" width="60px">
 <img src="https://github.com/user-attachments/assets/7a25fff4-7b7e-443e-ac29-f5aa0c29cc47" width="60px">
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/55a729e8-9cda-4767-81a8-ff224177df37" />
+
 </div>
 
 <br>
