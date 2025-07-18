@@ -1,4 +1,4 @@
-## Olá! Me chamo Thomas Cardoso de Miranda, tenho 19 anos.
+## Olá! Me chamo Thomas Cardoso de Miranda, tenho 21 anos.
 
 Sou estudante de Engenharia de Computação e Informação na UFRJ.
 
