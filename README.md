@@ -28,6 +28,8 @@ Entre em contato comigo através do me email:
 <img src="https://github.com/user-attachments/assets/7a25fff4-7b7e-443e-ac29-f5aa0c29cc47" width="60px">
 </div>
 
+<br>
+<br>
 _"Criar jogos é, pra mim, uma forma de transformar experiências pessoais em algo que outras pessoas possam viver, explorar e sentir."_ 🎮✨
 
 
